@@ -1,1 +1,1 @@
-console.log({ me: ' a test ' });
+// this all mongoose ways

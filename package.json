@@ -1,0 +1,22 @@
+{
+  "name": "mogoose",
+  "version": "1.0.0",
+  "description": "A repo to test and learn mongoose with express",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvgajwa/Mogoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvgajwa/Mogoose/issues"
+  },
+  "homepage": "https://github.com/dhruvgajwa/Mogoose#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
